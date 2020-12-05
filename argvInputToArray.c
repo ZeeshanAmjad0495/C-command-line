@@ -1,9 +1,6 @@
 #include "stdio.h"
 #include "stdlib.h"
 
-void getEven(int *, int);
-void getMin(int *, int);
-
 int main(int argc, char const *argv[])
 {
     int * data;
